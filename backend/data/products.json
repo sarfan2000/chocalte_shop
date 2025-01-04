@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Chocolate Truffle Cake",
+    "price": 20.99,
+    "description": "A rich and moist chocolate cake with layers of chocolate ganache.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/assets/1.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 10,
+    "numOfReviews": 25,
+    "reviews": []
+  },
+  {
+    "name": "Vanilla Sponge Cake",
+    "price": 15.5,
+    "description": "A light and fluffy vanilla sponge cake, perfect for any occasion.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/assets/2.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 8,
+    "numOfReviews": 18,
+    "reviews": []
+  },
+  {
+    "name": "Red Velvet Cake",
+    "price": 22.75,
+    "description": "A classic red velvet cake with cream cheese frosting.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/assets/3.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 5,
+    "numOfReviews": 30,
+    "reviews": []
+  },
+  {
+    "name": "Lemon Drizzle Cake",
+    "price": 18.0,
+    "description": "A zesty lemon cake with a sweet and tangy drizzle.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/assets/4.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 7,
+    "numOfReviews": 22,
+    "reviews": []
+  },
+  {
+    "name": "Carrot Cake",
+    "price": 19.5,
+    "description": "A moist carrot cake with a hint of cinnamon and a cream cheese frosting.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/assets/5.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 6,
+    "numOfReviews": 28,
+    "reviews": []
+  },
+  {
+    "name": "Black Forest Cake",
+    "price": 21.99,
+    "description": "A decadent black forest cake with layers of chocolate, cherries, and whipped cream.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/assets/6.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 4,
+    "numOfReviews": 35,
+    "reviews": []
+  },
+  {
+    "name": "Cheesecake",
+    "price": 23.5,
+    "description": "A creamy and smooth cheesecake with a graham cracker crust.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/assets/7.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 5,
+    "numOfReviews": 40,
+    "reviews": []
+  },
+  {
+    "name": "Tiramisu",
+    "price": 25.0,
+    "description": "A classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/assets/8.jpeg"
+      }
+    ],
+    "category": "Cakes",
+    "seller": "Cake Shop",
+    "stock": 3,
+    "numOfReviews": 45,
+    "reviews": []
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "price": 10.99,
+    "description": "Soft and chewy chocolate chip cookies, perfect for snacking.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "/assets/9.jpeg"
+      }
+    ],
+    "category": "Cookies",
+    "seller": "Bakery",
+    "stock": 15,
+    "numOfReviews": 50,
+    "reviews": []
+  },
+  {
+    "name": "Oatmeal Raisin Cookies",
+    "price": 9.5,
+    "description": "Hearty oatmeal cookies with plump raisins and a hint of cinnamon.",
+    "ratings": 4.4,
+    "images": [
+      {
+        "image": "/assets/10.jpeg"
+      }
+    ],
+    "category": "Cookies",
+    "seller": "Bakery",
+    "stock": 12,
+    "numOfReviews": 55,
+    "reviews": []
+  },
+  {
+    "name": "Peanut Butter Cookies",
+    "price": 11.75,
+    "description": "Rich and nutty peanut butter cookies, a classic favorite.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/assets/11.jpeg"
+      }
+    ],
+    "category": "Cookies",
+    "seller": "Bakery",
+    "stock": 10,
+    "numOfReviews": 60,
+    "reviews": []
+  },
+  {
+    "name": "Snickerdoodle Cookies",
+    "price": 10.0,
+    "description": "Soft and chewy snickerdoodle cookies with a cinnamon-sugar coating.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/assets/12.jpeg"
+      }
+    ],
+    "category": "Cookies",
+    "seller": "Bakery",
+    "stock": 8,
+    "numOfReviews": 65,
+    "reviews": []
+  }
+]
